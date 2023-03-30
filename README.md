@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hello! Welcome to my Github profile.
+## My name is Guilherme!
 
 <!--
 **guilemes-freitas/guilemes-freitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +14,24 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+<div>
+  <a href="https://github.com/guilemes-freitas"/>
+  <img height='180em' src='https://github-readme-stats.vercel.app/api?username=guilemes-freitas&theme=dark&show_icons=true&include_all_commits=true&count_private=true' />
+
+  <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=guilemes-freitas&layout=compact&theme=dark' />
+</div>
+
+## Technologies
+
+<div class="flex justify-between flex-wrap">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
+</div>     
+          
+
