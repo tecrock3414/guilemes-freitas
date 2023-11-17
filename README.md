@@ -84,7 +84,6 @@
 
 <div>
   <a href="https://www.linkedin.com/in/guilemes-freitas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>       
-  <a href ="mailto:israelltulio@icloud.com"><img src="https://img.shields.io/badge/mail-FFFFFF?style=for-the-badge&logo=apple&logoColor=black" target="_blank"></a>
 </div>
 
 ##
