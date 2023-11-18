@@ -64,7 +64,7 @@
   <a href="https://flask.palletsprojects.com/en/3.0.x/">
     <img src="https://skillicons.dev/icons?i=flask"/>
   </a>
-  <a href="https://github.com/pt" >
+  <a href="https://github.com" >
     <img src="https://skillicons.dev/icons?i=github"/>
   </a>
   <a href="https://git-scm.com" >
