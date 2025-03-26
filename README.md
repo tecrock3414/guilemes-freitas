@@ -36,51 +36,6 @@ As a senior full-stack developer with over six years of extensive experience in 
   
 ##
 
-#### Technologies I Use:
-
-<div class="flex justify-between flex-wrap">
-  <a href="https://www.typescriptlang.org/pt/">
-    <img src="https://skillicons.dev/icons?i=ts"/>
-  </a>
-  <a href="https://pt-br.react.dev">
-    <img src="https://skillicons.dev/icons?i=react"/>
-  </a>
-  <a href="https://tailwindcss.com/docs/installation">
-    <img src="https://skillicons.dev/icons?i=tailwind"/>
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=js"/>
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-    <img src="https://skillicons.dev/icons?i=html"/>
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-    <img src="https://skillicons.dev/icons?i=css"/>
-  </a>
-  <a href="https://npmjs.com">
-    <img src="https://i.postimg.cc/zBfCqdPJ/npm.png" width="48" height="48"/>
-  </a>
-  <a href="https://nodejs.org">
-    <img src="https://skillicons.dev/icons?i=nodejs"/>
-  </a>
-  <a href="https://www.python.org">
-    <img src="https://skillicons.dev/icons?i=python"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/en/3.0.x/">
-    <img src="https://skillicons.dev/icons?i=flask"/>
-  </a>
-  <a href="https://github.com" >
-    <img src="https://skillicons.dev/icons?i=github"/>
-  </a>
-  <a href="https://git-scm.com" >
-    <img src="https://skillicons.dev/icons?i=git"/>
-  </a>
-  <a href="https://vercel.com" >
-    <img src="https://skillicons.dev/icons?i=vercel"/>
-  </a>
-  <a href="https://www.figma.com" >
-    <img src="https://skillicons.dev/icons?i=figma"/>
-  </a>
 </div>     
 
 
