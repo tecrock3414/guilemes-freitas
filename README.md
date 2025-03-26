@@ -1,15 +1,20 @@
 # Hello, World!👋🏻
-## My name is Guilherme! Welcome to my Github profile <img src="https://cdni.iconscout.com/illustration/premium/thumb/laptop-5425029-4558286.png?f=webp" alt="ilustração de um computador" width="300px" align="right">
+As a senior full-stack developer with over six years of extensive experience in web development, I excel at ensuring project perfection. I effectively apply both MongoDB and MySQL databases within modern frameworks such as Next.js and Nuxt.js to create robust solutions. <img src="https://cdni.iconscout.com/illustration/premium/thumb/laptop-5425029-4558286.png?f=webp" alt="ilustração de um computador" width="300px" align="right">
 
-- 🗺️ I'm from Cascavel/PR, Brazil
-- ❤️ I love Art and Technology
-- 🏦 I work as a Front-end Developer in CarMagic, An Institution of Management, Maintenance & Repair Subscription Service for Cars
 
-"What we do in life echoes in eternity" - Marcus Aurelius
 
-##
 
-#### I'm currently studying:
+## Skills
+<ins>**Languages**</ins>\
+![](https://skillicons.dev/icons?i=html,css,scss,js,ts,cs,java,py,ocaml,ruby)
+
+<ins>**Tools, Frameworks, Engines**</ins>\
+![](https://skillicons.dev/icons?i=angular,tailwind,jquery,dotnet,electron,firebase,discordjs,electron,nodejs,npm,p5js,unity,gamemakerstudio,git)
+
+## Statistics
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edlessz&layout=compact&hide=html" alt="edlessz" />
+</div>
+
 
 <div>
   <a href="https://nextjs.org/docs">
@@ -78,24 +83,6 @@
   </a>
 </div>     
 
-##
 
-#### Contact Me:
-
-<div>
-  <a href="https://www.linkedin.com/in/guilemes-freitas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>       
-</div>
-
-##
-
-#### Statistics:
-
-<div>
-  <a href="https://github.com/guilemes-freitas">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilemes-freitas&layout=compact&langs_count=7&theme=radical"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/?username=guilemes-freitas&show_icons=true&include_all_commits=true&theme=radical"/>
-    <img loading="lazy" height="153em" src="http://github-readme-streak-stats.herokuapp.com/?user=guilemes-freitas&amp;theme=radical">
-  </a>
-</div>
           
 
